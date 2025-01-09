@@ -1,0 +1,29 @@
+[33mcommit a207370c313377c379c64ec7f9283fd743636093[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mv0.2[m[33m)[m
+Author: Laura Vila <lauravt89@educastur.es>
+Date:   Thu Jan 9 01:04:44 2025 +0100
+
+    Añadir Adios rama v0.2
+
+[33mcommit c09204e9315cb6fabae46935584ea6dda827cd46[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Laura Vila <lauravt89@educastur.es>
+Date:   Wed Jan 8 20:04:59 2025 +0100
+
+    Añadir 2.txt a la rama2
+
+[33mcommit 5c5159cf9391f73e571007cae4e43cb6223e3861[m
+Author: Laura Vila <lauravt89@educastur.es>
+Date:   Wed Jan 8 19:47:52 2025 +0100
+
+    commit con tag
+
+[33mcommit 62e613d08ea1bd27b30f00a0dbd41c74719c1917[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m
+Author: Laura Vila <lauravt89@educastur.es>
+Date:   Wed Jan 8 19:39:27 2025 +0100
+
+    Ignorar el archivo privado.txt y la carpeta privada
+
+[33mcommit 83c800856f55b09b325dbd26a471ece1b276333b[m
+Author: Laura Vila <lauravt89@educastur.es>
+Date:   Wed Jan 8 19:24:46 2025 +0100
+
+    commit inicial
